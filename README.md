@@ -1,3 +1,3 @@
 # CareerQuest
-permalink: /index.html
+# permalink: /index.html
 
