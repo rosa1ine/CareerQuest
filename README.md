@@ -1,1 +1,4 @@
 # CareerQuest
+---
+permalink: /index.html
+---
